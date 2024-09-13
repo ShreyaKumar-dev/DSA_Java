@@ -18,3 +18,5 @@ public class Fibonacci_Series {
         }
     }
 }
+
+// There's the pattern question for same : Pascal's TRiangle
